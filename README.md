@@ -1,5 +1,7 @@
 # Hexdump
 
+[![GoDoc](https://godoc.org/github.com/klausman/hexdump?status.svg)](https://godoc.org/github.com/klausman/hexdump)
+
 A simple hexdumper in Go. Produces output like this:
 
 ```
