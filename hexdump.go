@@ -19,7 +19,7 @@ func Dump(b []byte, offset, width int) string {
 	i := 0
 	l := len(b)
 	r := []string{}
-	ft := fmt.Sprintf("%%0%d  %%s %%s\n", width)
+	ft := fmt.Sprintf("%%0%dx  %%s %%s\n", width)
 	for i < l {
 		d := b[i:intMin(i+16, l)]
 		r = append(r, fmt.Sprintf(ft, offset+i, hexCol(d, 16), asciionly(d)))
