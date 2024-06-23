@@ -1,5 +1,9 @@
 # Hexdump
 
+**NOTE**: As of 2024-06-23 the Go import url of this repo has changed to:
+`pkg.i-no.de/pkg/hexdump`. Issues, merge requests etc should be filed at its new
+source location, https://codeberg.org/klausman/hexdump
+
 [![GoDoc](https://godoc.org/github.com/klausman/hexdump?status.svg)](https://godoc.org/github.com/klausman/hexdump)
 
 A simple hexdumper in Go. Produces output like this:
