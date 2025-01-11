@@ -4,7 +4,7 @@
 `pkg.i-no.de/pkg/hexdump`. Issues, merge requests etc should be filed at its new
 source location, https://codeberg.org/klausman/hexdump
 
-[![GoDoc](https://godoc.org/github.com/klausman/hexdump?status.svg)](https://godoc.org/github.com/klausman/hexdump)
+[![GoDoc](https://godoc.org/pkg.i-no.de/pkg/hexdump?status.svg)](https://godoc.org/pkg.i-no.de/pkg/hexdump)
 
 A simple hexdumper in Go. Produces output like this:
 
